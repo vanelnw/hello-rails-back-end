@@ -4,4 +4,3 @@ class GreetingsController < ApplicationController
     render json: { greeting: @greeting.message }
   end
 end
-
