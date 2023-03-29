@@ -20,8 +20,8 @@
   - [🙏 Acknowledgements](#acknowledgements)
   - [📝 License ](#-license-)
 
-# Hello-Rails-React <a name="hello-rails-react"></a>
-**Hello Rails React** is a web application that displays a random greeting message on screen, using **React** as front-end and **Rails** as back-end.
+# hello-rails-back-end <a name="hello-rails-back-end"></a>
+**hello-rails-back-end** is an API to fetch a random greeting message that should be display on screen, using **React** as front-end.
 
 ## My React.JS Repo <a></a>
 [React app repo](https://github.com/vanelnw/hello-react-front-end/tree/react-used-rails)
@@ -85,7 +85,6 @@ Install the project dependencies with:
 
 ```
   - bundle install
-  - npm install
 ```
 
 ### Usage <a name="usage"></a>
@@ -121,7 +120,6 @@ rspec
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Improve UI
 - Implement Add greeting
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
